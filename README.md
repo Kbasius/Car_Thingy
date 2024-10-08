@@ -19,6 +19,9 @@ Either clone the repo or simply download the zip folder from github and extract 
 ## Usage
 Once you have the files, open them and in terminal run npm init -y, followed by npm i. Doing these will get the app ready for use and installs the needed dependenccies. From here either choose one of the three  pre-made  vehicles or create your very own, simply follow the prompts.
 
+## Video Link
+https://app.screencastify.com/v3/watch/qdwbu6apuSbEHzoxyL6N
+
 ## Contributing
 Things that can be added are more possible actions for the vehicles to preform. Maybe a specific actions,such as how the morotbike can do wheelies.
 
